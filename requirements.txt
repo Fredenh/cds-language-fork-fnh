@@ -1,3 +1,5 @@
 matplotlib
 numpy
 tensorflow-cpu
+pandas
+scikit-learn
