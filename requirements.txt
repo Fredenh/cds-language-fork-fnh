@@ -3,3 +3,5 @@ numpy
 tensorflow-cpu
 pandas
 scikit-learn
+pandas
+tensorflow-cpu

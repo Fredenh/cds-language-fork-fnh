@@ -1,0 +1,3 @@
+pipreqs automates the process of making requirements.txt's
+pipreqs looks through everything in the given repository
+can also be pointed to specific folders = "piprecs src" for creating a requirements.txt for the src directory
