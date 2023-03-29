@@ -1,7 +1,6 @@
 matplotlib
 numpy
 tensorflow-cpu
-pandas
+bertopic
 scikit-learn
 pandas
-tensorflow-cpu

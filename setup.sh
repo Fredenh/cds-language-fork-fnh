@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 python3 -m pip install -r requirements.txt
 python3 -m spacy download en_core_web_md
-=======
-python3.9 -m pip install -r requirements.txt
->>>>>>> 0340a5f8bc4e336793595b5f64dd92356131dc4c
+# install hdbscan for BERTopic
+sudo apt-get update
+sudo apt-get install python3-dev
+# requirements
+pip install --upgrade pip
+pip install --upgrade nbformat
+python3 -m pip install -r requirements.txt
