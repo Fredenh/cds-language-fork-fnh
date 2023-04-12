@@ -4,3 +4,5 @@ tensorflow-cpu
 bertopic
 scikit-learn
 pandas
+transformers
+
